@@ -15,19 +15,15 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
-- Favorite things of CS193
+## Favorite things of CS193
 - It is an informative intro course
 - It is taught by younger people who are nice
 - It isn't as big as the other classes
 
-1. Numbered
-2. List
-3. Top Artists
-4. Travis Scott
-5. Lil Durk
-6. Lil Baby
+###Top Artists
+1. Travis Scott
+2. Lil Durk
+3. Lil Baby
 
 **Bold** and _Italic_ and `Code` text
 
