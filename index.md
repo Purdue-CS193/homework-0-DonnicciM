@@ -20,7 +20,8 @@ Syntax highlighted code block
 - It is taught by younger people who are nice
 - It isn't as big as the other classes
 
-###Top Artists
+### Top Artists
+
 1. Travis Scott
 2. Lil Durk
 3. Lil Baby
