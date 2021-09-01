@@ -16,6 +16,7 @@ Syntax highlighted code block
 ### Header 3
 
 ## Favorite things of CS193
+l
 - It is an informative intro course
 - It is taught by younger people who are nice
 - It isn't as big as the other classes
