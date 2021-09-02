@@ -9,7 +9,7 @@
 
 -It isn't as big as my other classes.
 
-### Top Artsits
+### Top Artists
 
 1.) Travis Scott
 
